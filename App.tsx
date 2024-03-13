@@ -78,7 +78,7 @@ export default function App() {
     <ScrollView keyboardShouldPersistTaps="handled">
       <SafeAreaView style={styles.appContainer}>
         <View style={styles.formContainer}>
-          <Text style={styles.title}>Password Generator</Text>
+          <Text style={styles.title}>Maruti HR ASSIST</Text>
           <Formik
        initialValues={{ passwordLength: '' }}
        validationSchema={PasswordSchema}
